@@ -1,0 +1,422 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap');
+
+.stoyka{
+    background-color: red;
+    display: inline-block;
+}
+
+.p1{
+    display: inline-block;
+    position: absolute;
+    margin-left: 90px;
+}
+
+.p2{
+    display: inline-block;
+    position: absolute;
+    margin-left: 242px;
+
+}
+
+.p3{
+    display: inline-block;
+    position: absolute;
+    margin-left: 440px;
+}
+
+.header{
+    background-color:whitesmoke;
+  
+}
+.img1{
+    
+    margin-left: 90px;
+}
+.p4{
+    display: inline-block;
+    margin-top: 24px;
+    position: absolute;
+    font-size: 22px;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+    
+
+}
+.bor{
+    display: inline-block;
+    margin-left: 80px;
+}
+
+.shop, .uses, .services, .sustainability, .more, .sign{
+    display: inline-block;
+    margin-left: 30px;
+    color: black;
+    list-style-type: none;
+
+}
+
+.input{
+    margin-left: 100px;
+    width: 259px;
+    height: 40px;
+    border-radius: 12px;
+}
+.p5{
+    margin-left: 80px;
+    font-size: 40px;
+    margin-top: 90px;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Text:wght@100&family=Bungee+Shade&family=Roboto:wght@100;400&display=swap');
+.p5{
+    font-family: 'Big Shoulders Stencil Text', cursive;
+font-family: 'Bungee Shade', cursive;
+font-family: 'Roboto', sans-serif;
+}
+
+.p6{
+    font-family: 'Big Shoulders Stencil Text', cursive;
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin-left: 80px;
+}
+.image{
+margin-top: -350px;
+margin-left: 800px;
+}
+.cust{
+    width: 253px;
+    height: 64px;
+    background-color:#3B61FF;
+    border: none;
+    border-radius: 8px;
+}
+
+.but{
+    margin-left: 80px;
+}
+.buyy{
+    width: 308px;
+    height: 64px;
+    border-radius: 8px;
+  
+  
+}
+
+.p7{
+    margin-left: 80px;
+    margin-top: -120px;
+}
+.p8, .p9, .p10, .p11{
+    display: inline-block;
+    margin-left: 32px;
+    font-size: 22px;
+    font-family: 'Big Shoulders Stencil Text', cursive;
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+
+.p12, .p13{
+    display: inline-block;
+    font-size: 32px;
+    margin-left: 20px;
+}
+.p13{
+    color: grey;
+    font-family: 'Big Shoulders Stencil Text', cursive;
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Roboto', sans-serif;    
+}
+
+.p12{
+    font-size: 22px;
+    font-family: 'Big Shoulders Stencil Text', cursive;
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Roboto', sans-serif;    
+    font-size: 32px;
+}
+
+.p14{
+    margin-left: 20px;
+    font-family: 'Big Shoulders Stencil Text', cursive;
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.div1, .div2, .div3, .div4{
+    display: inline-block;
+    margin-left: 80px;
+}
+
+.p15{
+    font-family: 'Big Shoulders Stencil Text', cursive;
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;   
+    display: inline-block;
+}
+
+.p16{
+    font-family: 'Big Shoulders Stencil Text', cursive;
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+    color: grey;
+    display: inline-block;
+}
+.p15, .p16{
+    display: inline-block;
+}
+
+.img8, .img9{
+    display: inline-block;
+    margin-left: 100px;
+}
+.img10, .img11{
+    margin-top: -360px;
+    margin-left: 100px;
+}
+
+.p17{
+    font-size: 24px;
+    font-family: 'Big Shoulders Stencil Text', cursive;
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 140px;
+    margin-top: 109px; 
+    position: absolute;
+}
+
+.p18{
+    font-size: 24px;
+    font-family: 'Big Shoulders Stencil Text', cursive;
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Roboto', sans-serif;  
+    margin-left: 800px;
+    margin-top: 109px; 
+    position: absolute;
+}
+.p19, .p20{
+    display: inline-block;
+    font-family: 'Big Shoulders Stencil Text', cursive;
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Roboto', sans-serif;  
+    margin-left: 20px;
+    font-size: 32px;
+}
+.p20{
+    color: grey;
+}
+.img12, .img13, .img14{
+    margin-left: 60px;
+}
+.p25, .p26{
+    position: absolute;
+    margin-left: 1000px;
+    margin-top: 100px;
+
+}
+.p24, .p23{
+    position: absolute;
+    margin-left: 560px;
+    margin-top: 100px;
+}
+.p22, .p21{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.p21, .p23, .p25{
+    margin-top: 20px;
+    font-family: 'Big Shoulders Stencil Text', cursive;
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+}
+.img17{
+    margin-left: 960px;
+    position: absolute;
+}
+
+.img16{
+    margin-left: 500px;
+    position: absolute;
+}
+.img15{
+
+    margin-left: 80px;
+}
+
+.img15, .img16, .img17{
+    margin-top: -160px;
+}
+.p27, .p28{
+    display: inline-block;
+    font-family: 'Big Shoulders Stencil Text', cursive;
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+}
+
+.p27{
+    font-size: 32px;
+    font-family: 'Big Shoulders Stencil Text', cursive;
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Roboto', sans-serif;
+margin-left: 38px;
+}
+.p28{
+    color: grey;
+    margin-left: 40px;
+}
+.img18, .img19{
+    display: inline-block;
+    margin-left: 100px;
+}
+
+.btn1, .btn2{
+    position: absolute;
+    width: 200px;
+    height: 48px;
+    border: 1px solid white;
+     background-color:rgb(193, 224, 242); 
+     margin-top: 100px; 
+     border-radius: 4px; 
+}
+.btn2{
+    margin-left: 800px;
+    background-color: rgb(239, 224, 197);
+}
+
+.btn1{
+    margin-left: 200px;
+}
+.p29, .p30{
+    display: inline-block;
+    position: absolute;
+    font-size: 28px;
+   
+}
+.p29{
+    margin-left: 160px;
+}
+
+.p30{
+    margin-left: 800px;
+}
+
+.p31, .p32{
+    display: inline-block;
+    font-size: 32px;
+    font-family: 'Big Shoulders Stencil Text', cursive;
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 60px;
+
+}
+.p32{
+    color: grey;
+    margin-left: -2px;
+}
+.img20, .img21, .img22{
+    margin-left: 80px;
+}
+.p33, .p34, .p35{
+    position: absolute;
+    display: inline-block;
+    margin-top: 120px;
+    font-size: 22px;
+}
+.p35{
+    margin-left: 1040px;
+}
+.p34{
+    margin-left: 600px;
+}
+.p33{
+    margin-left: 120px;
+}
+.img23, .img24, .img25{
+    display: inline-block;
+    position: absolute;
+}
+.img25{
+    margin-top: 600px;
+    margin-left: -350px;
+}
+.img24{
+    margin-top: 600px;
+    margin-left: -800px;
+}
+.img23{
+    margin-top: 600px;
+    margin-left: -1240px;
+}
+.p36{
+    position: absolute;
+    margin-top: -80px;
+    margin-left: 140px;
+}
+.p37{
+    position: absolute;
+    margin-top: -80px;
+    margin-left: 580px;
+}
+.p38{
+    position: absolute;
+    margin-top: -80px;
+    margin-left: 1020px;
+}
+.p39, .p40{
+    display: inline-block;
+    font-family: 'Big Shoulders Stencil Text', cursive;
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+    margin-left: 20px;
+}
+.p40{
+    color: grey;
+}
+.img27{
+    position: absolute;
+    margin-top: -1px;
+}
+.ik{
+    margin-left: 100px;
+}
+.img29{
+    position: absolute;
+    margin-top: 200px;
+    margin-left: -1100px;
+}
+.img30{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: -520px;
+}
+.img31{
+    position: absolute;
+    margin-top: 400px;
+    margin-left: -540px;
+}
+.img32{
+    margin-left: 212px;
+}
+.img35{
+    position: absolute;
+    margin-top: -800px;
+    margin-left: 640px;
+}
+.img34{
+    position: absolute;
+    margin-top: -800px;
+    margin-left: ;
+}
+.img33{
+    margin-top: 100px;
+    position: absolute;
+}
